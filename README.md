@@ -20,12 +20,6 @@ The cost model flags less than half the Group B patients it should, and the ones
 
 Obermeyer, Z., Powers, B., Vogeli, C. and Mullainathan, S. (2019) 'Dissecting racial bias in an algorithm used to manage the health of populations', *Science*, 366(6464), pp. 447-453. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31649194/)
 
-## Run it
-
-```bash
-pip install -r requirements.txt
-jupyter notebook when_cost_stands_in_for_need.ipynb
-```
 
 ## Data and assumptions
 
@@ -33,4 +27,4 @@ All data is **synthetic**. "Group A" and "Group B" are abstract labels, and the 
 
 ## Author
 
-Yuktha, research ethics and health data science. [Add your LinkedIn profile link here]
+Yuktha, research ethics and health data science. www.linkedin.com/in/yukthashreenivasan
